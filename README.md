@@ -75,15 +75,12 @@
 ### 💞 我的社交统计
 
 [![GitHub统计](https://stats.justsong.cn/api/github?username=H-jfeng&theme=dark&lang=zh-CN)](https://github.com/H-jfeng)
-[![B站统计](https://stats.justsong.cn/api/bilibili/?id=337439992&theme=dark&lang=H-jfeng)](https://space.bilibili.com/337439992)
+[![B站统计](https://stats.justsong.cn/api/bilibili/?id=337439992&theme=dark&lang=zh-CN)](https://space.bilibili.com/1463547681)
 <br>
 
 ### 🍭 GitHub 开源项目
 
-[![1](https://github-readme-stats.vercel.app/api/pin/?username=H-jfeng&repo=50-Case-Studies&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/H-jfeng/50-Case-Studies)
-[![2](https://github-readme-stats.vercel.app/api/pin/?username=H-jfeng&repo=zhang-vue2-50project&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/H-jfeng/zhang-vue2-50project)
-[![3](https://github-readme-stats.vercel.app/api/pin/?username=H-jfeng&repo=react-study&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/H-jfeng/react-study)
-[![4](https://github-readme-stats.vercel.app/api/pin/?username=H-jfeng&repo=zhang-web-template-github&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/H-jfeng/zhang-web-template-github)
+[![1](https://github-readme-stats.vercel.app/api/pin/?username=H-jfeng&repo=H-jfeng.github.io&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/H-jfeng/H-jfeng.github.io)
 <br>
 
 ### 🔥 GitHub 活跃度
