@@ -1,27 +1,26 @@
-<!-- 动态打字效果 -->
-<h1 align="center">
-  <a href="https://blog.anheyu.com/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=生活明朗，万物可爱.;胡景丰(%22Hello%EF%BC%8Cworld%22)">
-  </a>
-</h1>
+<p align="center">
+  <h1 align="center"><a href="https://github.com/zhang-bcxb">✨ 编程细胞 GitHub 首页</a></h1>
+</p>
 
-<!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=大家好，我是编程细胞;欢迎来到我的 GitHub!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="动态介绍">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Program&message=Vue&color=blue"/>
+  <img src="https://img.shields.io/static/v1?label=Language&message=JavaScript&color=yellow"/>
+  <a href="https://space.bilibili.com/337439992"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=pink"/></a>
+  <a href="https://mp.weixin.qq.com/s/NfkT7BvdkNDLCcbmyl0AMg
+"><img src="https://img.shields.io/static/v1?label=Blog&message=WeChat&color=green"/></a>
+</p>
 <br>
 
-<!-- 个人资料徽标 -->
-<div align="center">
-  <a href="https://www.jingyingcaibao.club/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
-  <a href="https://twitter.com/anzhiyu_c"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
-  <a href="https://www.youtube.com/channel/UC1zFQPt_DccDr0pn60jzoQQ"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
-  <a href="https://blog.csdn.net/CZW2268025923?spm=1010.2135.3001.5343"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
-  <a href="https://space.bilibili.com/372204786"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <a href="https://www.zhihu.com/people/xi-gua-pi-pi-60"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
-<!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=anzhiyu-c" /></div>
+<img align="right" src="https://moe-counter.glitch.me/get/@:zhang-bcxb?theme=rule34">
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
+## 🧸 全栈工程师—编程细胞
+
+热爱前端、热爱技术。<br>喜欢参与一些开源项目的讨论。
+<br>
 
 # 🙋 Hello
 
@@ -72,26 +71,3 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
 <div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
-
-
-<div id="title" align=center>
-
-![Modern C++ template][github-sub-title:img]
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mq-b&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
-
-[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.zhihu.com/people/o4ze4r)
-[![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
-
-[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
-![](https://img.shields.io/badge/讨厌-学习-yellow) 
-![](https://img.shields.io/badge/性格-开朗-red) 
-![](https://img.shields.io/badge/爱好-二次元-red)
-
-</div>
-
-![头像](image/头像.jpg)
-
-![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)
-
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=mq白.
