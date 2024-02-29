@@ -85,7 +85,7 @@
 
 ### 🔥 GitHub 活跃度
 
-![zhang-bcxb's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-jfeng&custom_title=H-jfeng的统计数据&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
+![H-jfeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-jfeng&custom_title=H-jfeng的统计数据&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 ![技术占比](https://github-readme-stats.vercel.app/api/top-langs/?username=H-jfeng&layout=compact&langs_count=8&custom_title=技术占比&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=H-jfeng&theme=dracula&custom_title=H-jfeng的心电图&radius=10)
 <br>
