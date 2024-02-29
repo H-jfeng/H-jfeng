@@ -75,7 +75,7 @@
 ### 💞 我的社交统计
 
 [![GitHub统计](https://stats.justsong.cn/api/github?username=H-jfeng&theme=dark&lang=zh-CN)](https://github.com/H-jfeng)
-[![B站统计](https://stats.justsong.cn/api/bilibili/?id=337439992&theme=dark&lang=zh-CN)](https://space.bilibili.com/337439992)
+[![B站统计](https://stats.justsong.cn/api/bilibili/?id=337439992&theme=dark&lang=H-jfeng)](https://space.bilibili.com/337439992)
 <br>
 
 ### 🍭 GitHub 开源项目
